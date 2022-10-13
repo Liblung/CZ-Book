@@ -1,5 +1,3 @@
-<div style="img {max-width:100% !important;}">
-
 CZ | HL2
 --- | ---
 cncrt010 ![](cncrt010_result.png) | concretefloor004a ![](concretefloor004a.png)
