@@ -1,8 +1,8 @@
 CZ | HL2
 --- | ---
-[]cncrt010  ![](cncrt010_result.png) | concretefloor004a ![](concretefloor004a.png)
+cncrt010 ![](cncrt010_result.png) | concretefloor004a ![](concretefloor004a.png)
 +4|+4
-cncrt014  ![](cncrt014_result.png)| concretefloor008a ![](concretefloor008a.png)
+cncrt014 ![](cncrt014_result.png)| concretefloor008a ![](concretefloor008a.png)
 +13|+13
 cncrt027 ![](cncrt027_result.png)| concretefloor016a ![](concretefloor016a.png)
 +11|**+5?**
