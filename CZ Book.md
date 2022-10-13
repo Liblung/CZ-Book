@@ -1,3 +1,6 @@
+
+* Markdown element. This should be displayed. 
+
 <table>
 <thead>
 <tr>
