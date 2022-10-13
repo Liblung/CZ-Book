@@ -1,22 +1,22 @@
 CZ | HL2
 --- | ---
-[]cncrt010  ![](Topic/VCC/Assets/cncrt010_result.png) | concretefloor004a ![](Topic/VCC/Assets/concretefloor004a.png)
+[]cncrt010  ![](cncrt010_result.png) | concretefloor004a ![](concretefloor004a.png)
 +4|+4
-cncrt014  ![](Topic/VCC/Assets/cncrt014_result.png)| concretefloor008a ![](Topic/VCC/Assets/concretefloor008a.png)
+cncrt014  ![](cncrt014_result.png)| concretefloor008a ![](concretefloor008a.png)
 +13|+13
-cncrt027 ![](Topic/VCC/Assets/cncrt027_result.png)| concretefloor016a ![](Topic/VCC/Assets/concretefloor016a.png)
+cncrt027 ![](cncrt027_result.png)| concretefloor016a ![](concretefloor016a.png)
 +11|**+5?**
-cncrt038 ![](Topic/VCC/Assets/cncrt038_result.png)| concretefloor023a ![](Topic/VCC/Assets/concretefloor023a.png)
+cncrt038 ![](cncrt038_result.png)| concretefloor023a ![](concretefloor023a.png)
 +15|+15
-cncrt053 ![](Topic/VCC/Assets/cncrt053_result.png)| concretefloor029a ![](Topic/VCC/Assets/concretefloor029a.png)
+cncrt053 ![](cncrt053_result.png)| concretefloor029a ![](concretefloor029a.png)
 Series break|
-cncrt094 ![](Topic/VCC/Assets/cncrt094_result.png)|concretestair002a ![](Topic/VCC/Assets/concretestair002a.png)
+cncrt094 ![](cncrt094_result.png)|concretestair002a ![](concretestair002a.png)
 Series break|
-cncrt102 ![](Topic/VCC/Assets/cncrt102_result.png)|concretewall001b ![](concretewall001b%201.png)
-cncrt103 ![](Topic/VCC/Assets/cncrt103_result.png)|concretewall001c ![](Topic/VCC/Assets/concretewall001c.png)
+cncrt102 ![](cncrt102_result.png)|concretewall001b ![](concretewall001b%201.png)
+cncrt103 ![](cncrt103_result.png)|concretewall001c ![](concretewall001c.png)
 +4|+4
-cncrt107 ![](Topic/VCC/Assets/cncrt107_result.png)|concretewall002b ![](concretewall002b.png)
-cncrt108 ![](Topic/VCC/Assets/cncrt108_result.png)|concretewall002c ![](concretewall002c.png)
+cncrt107 ![](cncrt107_result.png)|concretewall002b ![](concretewall002b.png)
+cncrt108 ![](cncrt108_result.png)|concretewall002c ![](concretewall002c.png)
 +18|+18
 cncrt126 ![](cncrt126_result.png)|concretewall010a ![](concretewall010a.png)
 cncrt149 ![](cncrt149_result.png)|concretewall015a ![](concretewall015a.png)
