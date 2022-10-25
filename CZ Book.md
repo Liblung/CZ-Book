@@ -1,7 +1,7 @@
 
 * Markdown element. This should be displayed. 
 
-<table>
+<table style="max-width:1100px;">
 <thead>
 <tr>
 <th>CZ</th>
